@@ -10,19 +10,19 @@
 
 
 ### Requirements for running notebooks :
-> jupyter notebook
-> Python
-> Keras
-> Tensorflow
-> Numpy
-> Pandas
-> Sklearn
-> re
+jupyter notebook \
+Python \
+Keras \
+Tensorflow \
+Numpy \
+Pandas \
+Sklearn \
+re \
 
-> dataset: LabelledData (1).txt
-> GLoVe pretrained model for word embedding:[link](http://nlp.stanford.edu/data/glove.42B.300d.zip)
+> Dataset: LabelledData (1).txt \
+> GLoVe pretrained model for word embedding:[link](http://nlp.stanford.edu/data/glove.42B.300d.zip) \
 
 # To dowload nltk related add-on downloads type.
 
-> import nltk
-> nltk.download()
+import nltk \
+nltk.download() \
