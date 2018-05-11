@@ -5,7 +5,7 @@
 > I have used naive bias and deeplearning using LSTM.
 
 ## Accuracy Matrix
-> Naive Bayes : 90%
+> Naive Bayes : 90% \
 > LSTM: 98.5%
 
 
@@ -17,12 +17,13 @@ Tensorflow \
 Numpy \
 Pandas \
 Sklearn \
-re \
+re 
 
-> Dataset: LabelledData (1).txt \
-> GLoVe pretrained model for word embedding:[link](http://nlp.stanford.edu/data/glove.42B.300d.zip) \
+#Dataset
+> LabelledData (1).txt \
+> GLoVe pretrained model for word embedding:[link](http://nlp.stanford.edu/data/glove.42B.300d.zip) 
 
-# To dowload nltk related add-on downloads type.
+### To dowload nltk related add-on downloads type.
 
 import nltk \
-nltk.download() \
+nltk.download() 
