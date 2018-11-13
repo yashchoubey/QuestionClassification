@@ -1,4 +1,4 @@
-# QuestionClassification
+# Question classification
 > We are about to classify the dataset(question based) into four classification: Who, What, When, Affirmation(Y/N). Label any sentence that does no fall in any of the above four as "Unknown" type.
 
 ## Techniques Used
