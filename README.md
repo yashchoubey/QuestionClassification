@@ -1,7 +1,7 @@
 # Question classification
 > Objective is to classify the dataset(question based) into four categories: Who, What, When, Affirmation(Y/N). Label any sentence that does no fall in any of the above four as "Unknown" type.
 
-## Techniques Used
+## Techniques Used 
 > I have used naive bayes and deeplearning using LSTM.
 
 ## Accuracy Matrix
