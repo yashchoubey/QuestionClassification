@@ -10,7 +10,7 @@
 
 
 ### Requirements for running notebooks :
-> jupyter notebook \
+> Jupyter notebook \
 > Python \
 > Keras \
 > Tensorflow \
