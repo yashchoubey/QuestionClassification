@@ -9,7 +9,7 @@
 > LSTM: 98.5%
 
 
-### Requirements for running notebooks :
+### Requirements for running notebooks:
 > Jupyter notebook \
 > Python \
 > Keras \
